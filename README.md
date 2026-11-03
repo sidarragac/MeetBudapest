@@ -1,10 +1,10 @@
 # Cerebro Budapest
 
-Sistema de información territorial de Budapest (23 distritos), réplica del *Cerebro Lima* para el Taller de datos de
+Sistema de información territorial de Budapest (23 distritos), réplica del [*Cerebro Lima*](https://cerebro-lima.vercel.app/) para el Taller de datos de
 Tópicos de Sistemas de Información. Tiene dos partes: un **lago de datos** que federa fuentes abiertas
 (bronze → silver → gold) y un **sitio web** con compuerta de clave que solo lee la capa gold.
 
-Grupo: Juan José Botero · Santiago Idárraga · Samuel Villa. Documentos de la entrega en `docs/`
+Grupo: Juan José Botero García · Santiago Idárraga Ceballos · Samuel Villa Valencia. Documentos de la entrega en `docs/`
 (`Diccionario_de_datos_TallerDatos_Entrega2.xlsx`, `Preguntas_por_que_estos_datos_Entrega2.docx`); los IDs de fuente
 F02–F18 de este README son los de la hoja "1. Fuentes" del Excel.
 
